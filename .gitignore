@@ -177,3 +177,10 @@ pyrightconfig.json
 
 # png files
 *.png
+
+# xlsx files
+*.xlsx
+*.xlsx#
+
+# csv files
+*.csv
